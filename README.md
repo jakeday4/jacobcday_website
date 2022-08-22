@@ -1,2 +1,2 @@
 # jacobcday_website
-Personal Website
+Files and documentation for personal website.
