@@ -1,0 +1,24 @@
+---
+title: "Jake Day"
+about:
+  template: jolla
+  image: day_bwaltheadshot.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/Jake_Day4
+    - icon: github
+      text: Github
+      href: https://github.com/jakeday4
+    - icon: ai-google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=R0-2KvsAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jakeday4/
+    - icon: fa-envelope 
+      text: Email
+      href: mailto:jakeday4@gmail.com
+---
+
+I am an Associate Professor in the Department of Sociology and Criminology at the University of North Carolina Wilimington. Click here for my [CV]().

@@ -6,4 +6,15 @@ website:
   navbar:
     background: primary
     search: true
+    left:
+      - text: "Home"
+        href: jacobcday_home.qmd
+      - text: "About"
+        href: jacobcday_about.qmd
+  twitter-card: true
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
 
