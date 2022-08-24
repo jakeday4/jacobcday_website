@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jake Day",
+    "section": "",
+    "text": "I am an Associate Professor in the Department of Sociology and Criminology at the University of North Carolina Wilimington. Click here for my CV."
+  },
+  {
     "objectID": "jacobcday_about.html",
     "href": "jacobcday_about.html",
     "title": "Jake Day",
@@ -19,12 +26,5 @@
     "title": "Jake Day",
     "section": "Academic Experience",
     "text": "Academic Experience\nUniversity of North Carolina Wilmington | Associate Professor | August 2020 - present\nUniversity of North Carolina Wilmington | Assistant Professor | August 2014 - July 2020\nAppalachian State University | Assistant Professor | August 2012 - July 2014"
-  },
-  {
-    "objectID": "jacobcday_home.html",
-    "href": "jacobcday_home.html",
-    "title": "Jake Day",
-    "section": "",
-    "text": "I am an Associate Professor in the Department of Sociology and Criminology at the University of North Carolina Wilimington. Click here for my CV."
   }
 ]
