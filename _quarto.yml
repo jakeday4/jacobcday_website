@@ -10,7 +10,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "About"
-        href: jacobcday_about.qmd
+        href: about.qmd
   twitter-card: true
 
 format:
