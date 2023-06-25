@@ -11,6 +11,8 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
+      - text: "Reluctant Criminologists"
+        href: https://reluctantcriminologists.com/
   twitter-card: true
 
 format:
