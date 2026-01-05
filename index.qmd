@@ -21,6 +21,6 @@ about:
       href: mailto:jakeday4@gmail.com
 ---
 
-I am an Associate Professor in the Department of Sociology and Criminology at the University of North Carolina Wilmington. Here is my [CV](Day_CV_2022-08-24.pdf).
+I am an Associate Professor in the Department of Sociology and Criminology at the University of North Carolina Wilmington. Here is my [CV](Day_CV.pdf).
 
 You can find some of my course materials and blog entries at the [Reluctant Criminologists](https://reluctantcriminologists.com/), a collaborative website that I co-author with [Jon Brauer](https://jonbrauer.com/). 
