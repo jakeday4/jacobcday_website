@@ -1,0 +1,13 @@
+---
+title: "Criminology"
+subtitle: "CRM/SOC 255"
+description: "The causes and consequences of crime and crime control, and the major theories criminologists use to explain them."
+image: assets/crm-soc-255.svg
+categories: [Undergraduate]
+---
+
+## Syllabi
+
+- **Fall 2026** — [Syllabus (PDF)](crm-soc-255-Fall-2026.pdf)
+
+As I teach this course in future terms, each semester's syllabus will be added here.

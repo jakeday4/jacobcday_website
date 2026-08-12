@@ -1,0 +1,9 @@
+/* Custom styles for jacobcday_website */
+
+/* Referenced by _quarto.yml (format.html.css). Kept minimal on purpose;
+   add site-wide tweaks here as needed. */
+
+/* Course Syllabi: give the listing grid a little breathing room. */
+#course-listing .card-body {
+  padding-top: 0.75rem;
+}

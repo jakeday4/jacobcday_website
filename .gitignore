@@ -8,3 +8,5 @@ day_coloraltshot.jpg
 day_coloraltheadshot.jpg
 
 /.quarto/
+
+**/*.quarto_ipynb

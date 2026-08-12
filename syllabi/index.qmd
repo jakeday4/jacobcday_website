@@ -1,0 +1,16 @@
+---
+title: "Course Syllabi"
+listing:
+  id: course-listing
+  contents:
+    - crm-soc-255.qmd
+    - soc-200.qmd
+  type: grid
+  grid-columns: 2
+  sort: false
+  fields: [image, title, subtitle, description]
+  image-height: "180px"
+  categories: false
+---
+
+Full syllabi for the courses I teach. Select a course to open its page, which links to the syllabus for each term I have taught it.

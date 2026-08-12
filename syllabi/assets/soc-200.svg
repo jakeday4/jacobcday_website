@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Sociology of Sport — SOC 200">
+  <defs>
+    <linearGradient id="bg200" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f5f63"/>
+      <stop offset="1" stop-color="#2aa198"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg200)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="16">
+    <circle cx="1000" cy="120" r="150"/>
+    <circle cx="1000" cy="120" r="230" stroke-dasharray="46 46"/>
+    <circle cx="200" cy="540" r="120"/>
+  </g>
+  <text x="600" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="8" fill="#d6f0ec">SOC 200</text>
+  <text x="600" y="352" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="88" fill="#ffffff">Sociology of Sport</text>
+  <rect x="540" y="392" width="120" height="8" rx="4" fill="#ef8354"/>
+  <text x="600" y="472" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#d6f0ec">Sport as a social institution</text>
+</svg>

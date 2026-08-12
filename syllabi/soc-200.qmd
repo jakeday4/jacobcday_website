@@ -1,0 +1,13 @@
+---
+title: "Sociology of Sport"
+subtitle: "SOC 200"
+description: "A sociological toolkit for studying sport as a social institution — how culture, interaction, and social structure shape sport and society."
+image: assets/soc-200.svg
+categories: [Undergraduate]
+---
+
+## Syllabi
+
+- **Fall 2026** — [Syllabus (PDF)](soc-200-Fall-2026.pdf)
+
+As I teach this course in future terms, each semester's syllabus will be added here.
